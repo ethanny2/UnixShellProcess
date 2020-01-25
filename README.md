@@ -6,8 +6,8 @@ Requires a Unix operating system to run.
 
 ## Usage
 + Invoke the make command to create an executable called shell.exe
-+ Run the executable ./shell
-+ An interactive shell is created with your command line.
++ Run the executable with ./shell
++ An interactive shell is created within your command line.
 ## Concepts and Languages Used
 + C was used because of its ability to utilize the low-level Unix System call fork()
     + fork() is used to spawn child processes
